@@ -1,0 +1,14 @@
+{
+    "graph": [
+        {
+            "id": "./dataset",
+            "type": "dataset",
+            "hasdata": []
+        },
+        {
+            "id": "#data1",
+            "type": "File",
+            "place": "./dataset/data1"
+        }
+    ]
+}
