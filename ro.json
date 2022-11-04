@@ -29,6 +29,16 @@
             "id": "#data6",
             "type": "File",
             "place": "./dataset/data1"
+        },
+        {
+            "id": "#data7",
+            "type": "File",
+            "place": "./dataset/data1"
+        },
+        {
+            "id": "#data8",
+            "type": "File",
+            "place": "./dataset/data1"
         }
     ]
 }
