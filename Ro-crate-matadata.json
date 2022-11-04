@@ -19,6 +19,11 @@
             "id": "#data3",
             "type": "File",
             "place": "./dataset/data2"
+        },
+        {
+            "id": "#dataffff3",
+            "type": "File",
+            "place": "./dataset/data2"
         }
     ]
 }
